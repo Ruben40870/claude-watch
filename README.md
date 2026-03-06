@@ -4,6 +4,8 @@ A lightweight GNOME system tray indicator that shows your Claude.ai usage in rea
 
 ![Tray example: 5h: 42%  W: 31%  E: €3.20](https://placehold.co/400x60/1a1a1a/ffffff?text=5h%3A+42%25++W%3A+31%25++E%3A+%E2%82%AC3.20)
 
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/ruben40870)
+
 ---
 
 ## What it shows

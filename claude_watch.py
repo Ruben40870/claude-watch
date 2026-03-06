@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 """Claude Watch — GNOME tray usage indicator for Claude.ai."""
 
+__version__ = "1.0.0"
+
 import hashlib
 import json
 import os
