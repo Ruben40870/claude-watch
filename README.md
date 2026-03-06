@@ -4,10 +4,6 @@ A lightweight GNOME system tray indicator that shows your Claude.ai usage in rea
 
 ![Tray example: 5h: 42%  W: 31%  E: €3.20](https://placehold.co/400x60/1a1a1a/ffffff?text=5h%3A+42%25++W%3A+31%25++E%3A+%E2%82%AC3.20)
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/ruben40870)
-
----
-
 ## What it shows
 
 **Tray label** (always visible in the top bar):
@@ -145,3 +141,9 @@ CLAUDE_WATCH_DEBUG=1 python3 claude_watch.py
 - **Chrome only:** Firefox session support is not currently implemented. You must be logged in to claude.ai in Chrome or Chromium.
 - **`--no-sandbox`:** Playwright launches Chrome with `--no-sandbox` because most Linux desktop setups do not have user namespaces configured for Chromium's sandbox. The browser only visits claude.ai.
 - **Extra usage:** The "extra usage" feature only shows data if your Claude.ai account has overage spending enabled. If it shows nothing, your account may use a different billing model.
+
+---
+
+## Support
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/ruben40870)
