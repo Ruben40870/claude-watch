@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Claude Watch
+Comment=Claude Code token usage tray indicator
+Exec=/usr/bin/python3 SCRIPT_PATH
+Icon=dialog-information
+Terminal=false
+Categories=Utility;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
