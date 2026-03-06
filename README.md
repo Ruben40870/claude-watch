@@ -140,7 +140,6 @@ CLAUDE_WATCH_DEBUG=1 python3 claude_watch.py
 
 ## Notes
 
-- **5-hour window, not 4:** Claude.ai's API reports usage in a 5-hour rolling window (`five_hour`). The 4-hour figure mentioned in some places is outdated.
 - **Chrome only:** Firefox session support is not currently implemented. You must be logged in to claude.ai in Chrome or Chromium.
 - **`--no-sandbox`:** Playwright launches Chrome with `--no-sandbox` because most Linux desktop setups do not have user namespaces configured for Chromium's sandbox. The browser only visits claude.ai.
 - **Extra usage:** The "extra usage" feature only shows data if your Claude.ai account has overage spending enabled. If it shows nothing, your account may use a different billing model.
